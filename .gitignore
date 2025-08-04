@@ -10,6 +10,7 @@ __pycache__/
 logs/
 data/
 env.py
+keys.py
 
 # Distribution / packaging
 .Python
